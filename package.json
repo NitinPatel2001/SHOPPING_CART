@@ -1,0 +1,23 @@
+{
+  "name": "shopping_cart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "Start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NitinPatel2001/SHOPPING_CART.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NitinPatel2001/SHOPPING_CART/issues"
+  },
+  "homepage": "https://github.com/NitinPatel2001/SHOPPING_CART#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
